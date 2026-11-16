@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Google_Colab-pronto-1C2A44?style=for-the-badge&logo=googlecolab&logoColor=C99A3E&labelColor=1C2A44&color=C99A3E" alt="Pronto para o Google Colab">
   <img src="https://img.shields.io/badge/cadernos-8-1C2A44?style=for-the-badge&labelColor=1C2A44&color=C99A3E" alt="8 cadernos">
   <a href="LICENSE"><img src="https://img.shields.io/badge/licen%C3%A7a-MIT-1C2A44?style=for-the-badge&labelColor=1C2A44&color=F4EDE0" alt="Licença MIT"></a>
+  <a href="https://doi.org/10.5281/zenodo.24277459"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24277459-1C2A44?style=for-the-badge&logo=zenodo&logoColor=C99A3E&labelColor=1C2A44&color=C99A3E" alt="DOI 10.5281/zenodo.24277459"></a>
 </p>
 
 <br>
@@ -146,6 +147,27 @@ python cap01/cap01_evolucao_da_ia.py
 ```
 
 Todos os cadernos foram executados do início ao fim, sem erros, com Python 3.13, NumPy 2.5, SciPy 1.18, scikit-learn 1.9 e matplotlib 3.11. Em versões diferentes, alguns números podem variar na última casa decimal.
+
+## Como citar
+
+O material está arquivado no **Zenodo**, com identificador permanente (DOI):
+
+<p>
+  <a href="https://doi.org/10.5281/zenodo.24277459"><img src="https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.24277459-1C2A44?style=flat-square&logo=zenodo&logoColor=F4EDE0&labelColor=C99A3E" alt="Registro no Zenodo"></a>
+</p>
+
+```bibtex
+@misc{menezes2026ginga,
+  author    = {Menezes, Bruno},
+  title     = {A ginga dos números: inteligência artificial conta a conta},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.24277459},
+  url       = {https://doi.org/10.5281/zenodo.24277459}
+}
+```
+
+<p align="center"><img src="assets/divisoria.svg" alt="" width="100%"></p>
 
 ## Autor
 
